@@ -1,0 +1,105 @@
+Abstract.app
+Adobe After Effects 2020
+Adobe Audition 2020
+Adobe Creative Cloud
+Adobe Illustrator CC 2019
+Adobe InDesign 2020
+Adobe Lightroom Classic CC
+Adobe Media Encoder 2020
+Adobe Photoshop 2020
+Adobe Premiere Pro 2020
+Adobe Premiere Pro CC 2018
+Adobe XD
+Amethyst.app
+Anaconda-Navigator.app
+Android File Transfer.app
+Android Studio.app
+App Store.app
+Arduino.app
+Around.app
+Audacity.app
+Automator.app
+Be Focused.app
+Blender.app
+Books.app
+CLO_Standalone_OnlineAuth.app
+Calculator.app
+Calendar.app
+Chess.app
+ColorSlurp.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+Discord.app
+Docker.app
+FaceTime.app
+Figma.app
+Final Draft 11.app
+Firefox.app
+Font Book.app
+FontForge.app
+FontLab 7.app
+GarageBand.app
+Google Chrome.app
+Grammarly.app
+Home.app
+Image Capture.app
+Keynote.app
+Launchpad.app
+MAXON
+Mail.app
+Maps.app
+Maxon Cinema 4D R21
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mission Control.app
+News.app
+Notes.app
+Notion.app
+Numbers.app
+OBS.app
+Obsidian.app
+Openland.app
+Photo Booth.app
+Photos.app
+Postman.app
+Preview.app
+PyCharm CE with Anaconda plugin.app
+QuickTime Player.app
+R.app
+Recovery Explorer Professional.app
+Reminders.app
+SDL Software Manager.app
+Safari.app
+Siri.app
+Skype.app
+Slack.app
+Stickies.app
+Stocks.app
+System Preferences.app
+TeamViewer.app
+Telegram.app
+TextEdit.app
+Time Machine.app
+Timer.app
+Tor Browser.app
+Utilities
+VLC.app
+VOX.app
+Visual Studio Code.app
+Vivaldi.app
+VoiceMemos.app
+WebTorrent.app
+WhatsApp.app
+Yandex.Disk.2.app
+Yandex.Music.app
+ZXP Installer.app
+balenaEtcher.app
+divider.app
+iTunes.app
+unetbootin.app
+zoom.us.app
